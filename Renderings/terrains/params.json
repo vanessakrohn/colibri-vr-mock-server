@@ -1,3 +1,6 @@
 ﻿{
-  "depthCorrectionFactor": 5
+  "depthCorrectionFactor": 5,
+  "rotationX": 0,
+  "rotationY": 0,
+  "rotationZ": 0
 }
